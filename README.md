@@ -1,4 +1,4 @@
-<h1>🌟 MoodMirror – A Real-Time Mental Health Companion</h1>
+<h1> MoodMirror – A Real-Time Mental Health Companion</h1>
 
   ![image url](https://github.com/SasankaDinith/ICTMiniproject/blob/main/Homepage.png?raw=true)
 
